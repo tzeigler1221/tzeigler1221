@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tavarria Zeigler, a student at Princeton University. I’m interested in helping develop educational resources for new R-learners.
-- 🌱 I’m currently working on Linear Regressions in R in Princeton's 'Applied Quantative Analysis' course.
+- 🌱 I’m currently studying statistcal tools in R in Princeton's Applied Quantative Analysis course.
 - 📫 How to reach me: tzeigler@princeton.edu
 
 <!---
